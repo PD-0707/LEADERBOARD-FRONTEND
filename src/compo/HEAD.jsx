@@ -41,8 +41,8 @@ const Header = () => {
             </div>
 
             <div className={`w-full mt-10 text-center ${activeButton === 'department' ? 'block' : 'hidden'}`}>
-                <h2 className="text-base sm:text-xl lg:text-2xl font-bold">404 Not Found</h2>
-                <p className="text-sm sm:text-lg mt-4">Sorry, the page you are looking for does not exist.</p>
+                <h2 className="text-base sm:text-xl lg:text-2xl font-bold">404 ERROR</h2>
+                
                 
             </div>
         </div>
