@@ -1,0 +1,52 @@
+[
+  {
+    "ranking": 1,
+    "name": "DORAEMON",
+    "points": "3000",
+    "status": "up",
+    "image": "doreamon.webp"
+  },
+  {
+    "ranking": 2,
+    "name": "SUNEO",
+    "points": "2500",
+    "status": "up",
+    "image": "Suneo.webp"
+  },
+  
+  {
+    "ranking": 3,
+    "name": "GIYAN",
+    "points": "2000",
+    "status": "up",
+    "image": "giyan.jpg"
+  },
+  {
+    "ranking": 4,
+    "name": "DEKISUGI",
+    "points": "1800",
+    "status": "up",
+    "image": "deki.jpg"
+  },
+ 
+  {
+    "ranking": 5,
+    "name": "SHIZUKA",
+    "points": "1500",
+    "status": "down",
+    "image": "shizuka.png"
+  },
+    
+    {
+      "ranking": 6,
+      "name": "NOBITA",
+      "points": "1100",
+      "status": "down",
+      "image": "nobita.png"
+    }
+   
+   
+   
+    
+]
+  
