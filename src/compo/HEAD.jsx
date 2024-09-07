@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { SlArrowLeft } from "react-icons/sl";
 import { PiDotsNine } from "react-icons/pi";
-import { FidgetSpinner } from 'react-loader-spinner';
+
 
 const Header = () => {
     const [activeButton, setActiveButton] = useState('organisation');
